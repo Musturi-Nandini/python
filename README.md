@@ -1,2 +1,2 @@
 # python
-my python moni projects
+my python mini projects
